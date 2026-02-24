@@ -16,3 +16,10 @@ venv312/
 # OS
 .DS_Store
 Thumbs.db
+venv/
+venv312/
+.chroma/
+.gh_cache/
+.env
+__pycache__/
+*.pyc
