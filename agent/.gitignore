@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Virtual environments
+venv/
+venv312/
+
+# Chroma local DB
+.chroma/
+.gh_cache/
+
+# OS
+.DS_Store
+Thumbs.db
